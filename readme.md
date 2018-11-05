@@ -23,7 +23,11 @@ Usage
   2. Run the `$(ACT_root)/train/DDPG_train.py` to train the 'Actor and Critic' network.
 ### Test
   Please run `$(ACT_root)/tracking/run_tracker.py` for demo.
- 
+  
+License
+--------------------
+Licensed under an MIT license.
+
 Citation
 --------------------
 If you find ACT useful in your research, please kindly cite our paper:</br>
